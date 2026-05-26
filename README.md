@@ -26,6 +26,9 @@ defensive security operations.
 | Nginx Proxy Manager | LXC Container | 192.168.1.196 | Reverse proxy for local domain access |
 | Home Assistant | VM (stopped) | - | Future: smart home integration |
 
+### Network Diagram
+![Network Diagram](network-diagram.png)
+
 ### Planned additions
 - [ ] OPNsense (dedicated machine) — router + firewall
 - [ ] Suricata — inline IPS inside OPNsense
